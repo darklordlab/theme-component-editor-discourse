@@ -1,0 +1,8 @@
+en:
+  theme_metadata:
+    description: "Keeps a reply entry point visible at the bottom of topic pages and opens the native Discourse composer."
+  inline_reply:
+    reply: "Reply"
+    placeholder: "Write a reply..."
+    opens_native: "Opens the native Discourse editor"
+    topic_only: "This reply box is available on topic pages."

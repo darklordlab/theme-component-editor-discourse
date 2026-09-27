@@ -1,0 +1,8 @@
+{
+  "name": "Inline Reply Composer",
+  "component": true,
+  "license_url": "https://opensource.org/licenses/MIT",
+  "about_url": "https://github.com/discourse/discourse",
+  "theme_version": "1.0.0",
+  "minimum_discourse_version": "2.7.0"
+}

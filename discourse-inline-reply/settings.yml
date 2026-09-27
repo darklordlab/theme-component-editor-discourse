@@ -1,0 +1,20 @@
+enabled:
+  type: bool
+  default: true
+  description: "Exibe o editor de resposta no final dos tópicos"
+show_on_mobile:
+  type: bool
+  default: true
+  description: "Exibe o editor inline em telas pequenas"
+placeholder:
+  type: string
+  default: "Escreva uma resposta..."
+  description: "Texto exibido antes de abrir o editor nativo"
+label:
+  type: string
+  default: "Responder"
+  description: "Título exibido acima do editor inline"
+hint:
+  type: string
+  default: "O editor nativo do Discourse será aberto para publicar sua resposta."
+  description: "Texto auxiliar do editor inline"
